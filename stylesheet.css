@@ -11,18 +11,21 @@ a{
 }
 
 input{
-	width: 500px;
-	height: 3em;
+	width: 600px;
+	height: 3.5em;
 	margin: 20px;
 	border: 1px solid gray;
 }
 
 button{
 	font-weight: bold;
-	padding: 10px;
+	font-size: 14px;
+	color: gray;
+	padding: 15px 25px;
 	border-radius: 2px;
 	border: none;
 	margin: 10px 4px;
+	background-color: #ededed;
 
 }
 
@@ -53,7 +56,7 @@ div {
 	text-align: center;
 	width: 100%;
 	position: absolute;
-	top:180px;
+	top: 200px;
 }
 
 #footer{
@@ -63,7 +66,7 @@ div {
 	bottom: 0;
 	left: 10;
 	right: 10;
-	background-color: #d3d3d3;
+	background-color: #ededed;
 }
 
 #rfoot{
