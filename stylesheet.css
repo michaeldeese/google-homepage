@@ -1,0 +1,29 @@
+body {
+	font: 15px Helvetica, arial, sans-serif;
+	color: green;
+}
+
+h1 {
+	font-size: 26px;
+}
+
+a {
+	color: blue;
+}
+
+form {
+	padding: 20px; 
+	text-align: center;
+}
+
+strong {
+	color: green;
+	background-color: yellow;
+	padding: 0.25em;
+}
+
+#footer {
+	margin: 20px 0;
+	font-size: 10px;
+	color: blue;
+}
